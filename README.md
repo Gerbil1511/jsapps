@@ -3,7 +3,7 @@
 
 
 
-Science Shuffle is a revision tool for students stuyding (subjects) at the (ages/keystage?)
+Science Shuffle is a revision tool for students studying Science at KeyStage3.
 
 
 ## Authors
